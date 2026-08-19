@@ -1,6 +1,6 @@
 # Project Title
 
-Describe what your project is about and what it does
+My project "post-your-work-project" is about Bike Share app around New York
 
 ## Information about how to use your project
 
